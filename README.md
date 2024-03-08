@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dat Tran Dang Quoc</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dat Tran Dang Quoc
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d872003" alt="d872003" /></a> </p>
 
